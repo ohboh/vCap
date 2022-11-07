@@ -1,5 +1,6 @@
 # vCap
-An augmented reality application made with Unity and Vuforia used as a demo for our Senior High School capstone project titled "THE USE OF AUGMENTED REALITY AS AN INTEGRATED LEARNING
-MATERIAL TO ENHANCE STUDENTS’ PERFORMANCE IN A TRADITIONAL CLASSROOM SET-UP"
+An educational augmented reality application made with Unity used as a demo for our Senior High School capstone project.
+
+![example](https://user-images.githubusercontent.com/111236045/200328198-4ca69f8d-4b8d-45a8-960d-6acf5c3d2677.jpg)
 
 
